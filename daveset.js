@@ -1,9 +1,9 @@
 const settings = {
   packname: '',
   author: 'Davex Tech',
-  botName: "ADEVOS-X",
-  botOwner: 'Dave',
-  ownerNumber: '254104260236',
+  botName: "ADEVOS-X BOT",
+  botOwner: 'Adevos',
+  ownerNumber: '255663402315',
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
   commandMode: "public",
   maxStoreMessages: 5,

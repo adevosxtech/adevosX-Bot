@@ -10,11 +10,11 @@ const settings = {
   storeWriteInterval: 60000,
   description: "ADEVOS-X - Advanced WhatsApp Bot",
   version: "1.0.0",
-  updateZipUrl: "https://github.com/Davex-254/ADEVOS-X/archive/refs/heads/main.zip",
+  updateZipUrl: "https://github.com/adevosxtech/adevosX-Bot/archive/refs/heads/main.zip",
   // GitLab project path for update checking and downloads (public repo, no token needed)
-  gitlabProject: "peshii/jsencryptor",
-  // GitLab branch to track
-  gitlabBranch: "main",
+  githubProject: "adevosxtech/adevosX-Bot",
+  // Github branch to track
+  githubBranch: "main",
 };
 
 module.exports = settings;

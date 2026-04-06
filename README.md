@@ -7,11 +7,11 @@
     <img src="https://img.shields.io/badge/Pair_Code-Get_Your_Code-purple?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Pair Code" width="220">
   </a>
 
-  <a href="https://github.com/Davex-254/DAVE-X-ULTRA/fork">
-    <img src="https://img.shields.io/badge/Fork_Repo-DAVE--X--ULTRA-blue?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo" width="220">
+  <a href="https://github.com/adevosxtech/adevosX-Bot">
+    <img src="https://img.shields.io/badge/Fork_Repo-Adevos--X--Bot-blue?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo" width="220">
   </a>
 
-  <a href="https://github.com/Davex-254/DAVE-X-ULTRA/archive/refs/heads/main.zip">
+  <a href="https://github.com/adevosxtech/adevosX-Bot/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/Download_Zip-Get_Backup-green?style=for-the-badge&logo=download&logoColor=white" alt="Download ZIP" width="220">
   </a>
 </p>

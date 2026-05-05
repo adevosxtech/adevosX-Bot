@@ -37,7 +37,8 @@
       <td align="center"><a href="https://app.netlify.com/start/deploy?repository=https://github.com/adevosxtech/adevosX-Bot" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a></td>
     </tr>
     <tr>
-      <td colspan="2" align="center"><a href="https://dashboard.katabump.com/auth/login#ce51a9" target="_blank"><img src="https://img.shields.io/badge/Katabump-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white"/></a></td>
+      <td align="center"><a href="https://heroku.com/deploy?template=https://github.com/adevosxtech/adevosX-Bot/tree/main" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/></a></td>
+      <td align="center"><a href="https://dashboard.katabump.com/auth/login#ce51a9" target="_blank"><img src="https://img.shields.io/badge/Katabump-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white"/></a></td>
     </tr>
   </table>
 </div>

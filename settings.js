@@ -1,19 +1,25 @@
+
+/**
+* adevos
+* adevos
+*/
+
 const settings = {
-  botName: process.env.BOT_NAME || 'ADEVOS-X BOT',
-  botOwner: process.env.BOT_OWNER || 'ADEVOS',
-  ownerNumber: process.env.OWNER_NUMBER || '',
-  packname: process.env.PACKNAME || 'ADEVOS-X BOT',
-  prefix: process.env.PREFIX || '.',
-  mode: process.env.MODE || 'public',
-  version: '1.0.0',
-  defaultReaction: '',
-  errorReaction: '',
-  watermark: 'ADEVOS-X BOT',
-  description: 'ADEVOS-X BOT - The Most Powerful WhatsApp Bot',
-  channelLink: 'https://whatsapp.com/channel/0029Vb6wIVU9Bb5w69FQvt0W',
-  dev: '255663402315',
-  devgit: 'https://api.github.com/repos/adevosxtech/adevosX-Bot',
-  timezone: 'Africa/Nairobi',
+  packname: 'Adevos-X Tech',
+  author: 'Adevos',
+  botName: "𝐀𝐝𝐞𝐯𝐨𝐬-𝐗 𝐁𝐨𝐭",
+  botOwner: 'adevos', // Your name
+  ownerNumber: process.env.OWNER_NUMBER || '255675421210', //Set your number here without + symbol, just add country code & number without any space
+  giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
+  commandMode: "public",
+  maxStoreMessages: 20, 
+  storeWriteInterval: 10000,
+  description: "This is a bot for managing group commands and automating tasks.",
+  version: "2.0.0",
+  updateBranch: 'main',
+  updateZipToken: '',
+  updateZipUrl: "https://github.com/adevosxtech/adevosX-Bot/archive/refs/heads/main.zip",
+  timezone: 'Africa/nairobi',
 };
 
 module.exports = settings;

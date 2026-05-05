@@ -1,5 +1,5 @@
 {
-  "name": "𝐀𝐝𝐞𝐯𝐨𝐬-𝐗 𝐁𝐨𝐭",
+  "name": "\ud835\udc00\ud835\udc1d\ud835\udc1e\ud835\udc2f\ud835\udc28\ud835\udc2c-\ud835\udc17 \ud835\udc01\ud835\udc28\ud835\udc2d",
   "version": "2.0.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -25,7 +25,7 @@
     "@ffmpeg/ffmpeg": "^0.12.15",
     "@hapi/boom": "^10.0.1",
     "@types/node": "^20.0.0",
-    "@whiskeysockets/baileys": "^v7.0.0-rc.9",
+    "@whiskeysockets/baileys": "npm:davexbaileys@latest",
     "adm-zip": "^0.5.16",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.8.4",
